@@ -1,9 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jean Macedo
 ===================================================================================================================================
-
 Python and database developer
 -----------------------------
-
+ ![snake gif](https://github.com/JeancMacedo/JeancMacedo/blob/output/github-contribution-grid-snake.gif)
 Atualmente aluno no curso de Analise e Desenvolvimento de Sistemas - Em formação | IFSP | Power BI | Excell | C | GITHUB & Phyton - Em formação |
 
 * 🌍  I'm based in Brazil
