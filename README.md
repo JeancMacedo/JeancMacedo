@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 Python and database developer
 -----------------------------
-Atualmente aluno no curso de Analise e Desenvolvimento de Sistemas - Em formação | IFSP | Power BI | Excell | C# | GITHUB & Python - Em formação |
+Cursando Analise e Desenvolvimento de Sistemas pelo IFSP | Aluno do curso da Samsung Innovation Campus | Desenvolvedor de Software | GIT | GITHUB | PYTHON | C# | EXCEL | POWER BI
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [jeancmacedo1@gmail.com](mailto:jeancmacedo1@gmail.com)
