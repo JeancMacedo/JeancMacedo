@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jean Macedo
 ===================================================================================================================================
-Python and database developer
------------------------------
-Cursando Analise e Desenvolvimento de Sistemas pelo IFSP | Aluno do curso da Samsung Innovation Campus | Desenvolvedor de Software | GIT | GITHUB | PYTHON | C# | EXCEL | POWER BI
+C# .Net and Software Developer
+------------------------------
+Cursando Analise e Desenvolvimento de Sistemas pelo IFSP | Aluno do curso da Samsung Innovation Campus | Desenvolvedor de Software | GIT | HTML | CSS | JAVASCRIPT | BLAZOR | C# | Azure | Docker | PYTHON | Mirosoft SqlServer | MySQL 
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [jeancmacedo1@gmail.com](mailto:jeancmacedo1@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning .Net (FullStack)
 
 ### Skills
 
